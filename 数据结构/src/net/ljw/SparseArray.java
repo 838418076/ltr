@@ -3,7 +3,7 @@ package net.ljw;
 /**
  * @author LIJW
  * @date 2021/4/9 2:34 下午
- * 稀疏数组
+ * 稀疏数组 ===》 稀疏算法
  */
 public class SparseArray {
     public static void main(String[] args) {
@@ -88,27 +88,4 @@ public class SparseArray {
             System.out.println();
         }
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }

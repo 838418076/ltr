@@ -1,4 +1,4 @@
-package net.ljw;
+package net.ljw.ArrayQueue;
 
 import java.util.Scanner;
 
