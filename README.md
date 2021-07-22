@@ -4,5 +4,5 @@
 ## 仓库公开，欢迎大家拉取查看，不定期更新，每天一道算法题
 
 # 仓库拉取方法 ：
-1.安装git
-2.使用 git clone https://github.com/ljw-sun/algorithm.git 命令拉取
+## 1.安装git
+## 2.使用 git clone https://github.com/ljw-sun/algorithm.git 命令拉取
